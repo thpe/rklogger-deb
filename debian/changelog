@@ -1,3 +1,9 @@
+rklogger (1.1-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+
+ -- Thomas Petig <thomas@petig.eu>  Wed, 28 Jan 2015 22:05:09 +0100
+
 rklogger (1.0-1) unstable; urgency=low
 
   * Initial release.
