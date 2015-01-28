@@ -1,0 +1,12 @@
+Source: rklogger
+Maintainer: Thomas Petig <thomas@petig.eu>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 9)
+
+Package: rklogger
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: solar inverter interface
+ Implementation of ComLynx protocol
