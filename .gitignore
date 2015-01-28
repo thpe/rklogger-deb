@@ -1,0 +1,8 @@
+*.cmake
+lib/bin/
+src/bin/
+tags
+Makefile
+CMakeCache.txt
+CMakeFiles/
+.*.swp
