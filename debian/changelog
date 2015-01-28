@@ -1,5 +1,5 @@
-rklogger (1.0-1) UNRELEASED; urgency=low
+rklogger (1.0-1) unstable; urgency=low
 
   * Initial release.
 
- -- Thomas Petig <thomas@petig.eu>  Mon, 26 Jan 2015 21:52:42 +0100
+ -- Thomas Petig <thomas@petig.eu>  Wed, 28 Jan 2015 22:03:20 +0100
